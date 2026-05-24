@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00c6ff&height=200&section=header&text=Savanth%20Sanju&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+### AI Enthusiast | Web Developer | B.Tech IT Student
+
+![Profile Views](https://komarev.com/ghpvc/?username=savanthsan&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/savanthsan?style=social)
+
+</div>
 # 💫 About Me:
 ## Hi, I'm Savanth 👋<br><br>I am a B.Tech IT student interested in web development, AI, and building useful real-world projects. I enjoy learning new technologies and improving my coding skills through practical projects.<br><br>- 🔭 I’m currently working on: **Savan – an AI planner and expense tracking website**<br>- 👯 I’m looking to collaborate on: **web development and AI-based beginner projects**<br>- 🤝 I’m looking to help with: **frontend design, basic web apps, and project ideas**<br>- 🌱 I’m currently learning: **Next.js, Supabase, AI integration, and full-stack development**<br>- 💬 Ask me about: **HTML, CSS, JavaScript, C++, and beginner web development**<br>- ⚡ Fun fact: **I like turning simple ideas into useful websites**
 
